@@ -1,0 +1,8 @@
+apiVersion: v1
+appVersion: "1.0"
+description: Helm chart with Values
+name: part2-helm
+version: 0.1.0
+maintainers:
+  - name: Shakeeb
+    github: KeebKode
